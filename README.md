@@ -1,4 +1,4 @@
-# The Modern Day Consitution
+# The Modern Day Constitution
 
 A modern day revision to the constitution created by the people, for the people.
 
