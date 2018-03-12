@@ -13,7 +13,8 @@ The right of the people to secure their domicile, family, and person, and thusly
 - A person has received authorization from local law enforcement to practice on an authorized gun range. A Practice Permit is required to be with the person at all times.
 - A person has received a hunting licensed from local hunting authorities. The hunting license is required to be with the person at all times.  
 
-5: The only persons who may qualify for a firearms license must have all the following true:  
+5: The only persons who may qualify for a firearms license must have all the following true:
+- Be at least the age of majority, unless a state has ratification by all states for a different age, which can be no less than age 18.
 - No previous felony convictions.
 - No repeat offenses or similar offenses, of any severity.
 - Have attended an informational class as created by the United States Congress.
